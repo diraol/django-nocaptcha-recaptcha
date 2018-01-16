@@ -50,3 +50,4 @@ pep8.txt
 .ropeproject/
 # Vim
 *.swp
+.eggs
